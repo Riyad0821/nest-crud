@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+
+## Initiale the Nest app --> Add some modules, controllers, and providers --> Test dummy post request --> Initialize the container to handle postgresql database. --> Initialize the Prisma as an ORM --> 
