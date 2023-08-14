@@ -75,3 +75,11 @@ Nest is [MIT licensed](LICENSE).
 
 
 ## Initiale the Nest app --> Add some modules, controllers, and providers --> Test dummy post request --> Initialize the container to handle postgresql database. --> Initialize the Prisma as an ORM --> 
+
+//sudo docker compose rm dev-db -s -f -v
+//sudo docker compose up dev-db -d
+//npx prisma migrate dev
+// prisma migrate depoly
+
+//yarn prisma studio
+
